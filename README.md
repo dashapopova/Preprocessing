@@ -28,8 +28,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
    <tr>
     <td>16.09.</td>
-    <td>1. Pymystem, pymorphy<br>
-    2. Parsing internet data </td>
+    <td><a href="./PPSem1.ipynb">Pymystem, pymorphy</a><br>
+    <a href="./PPSem2.ipynb">Parsing Internet data</a></td>
     <td></td>
     <td></td>
     <td>
