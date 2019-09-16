@@ -428,7 +428,7 @@ prog.inflect({'past', 'femn'})
 
 
 
-## Формы слова
+## Word forms
 
 Using the `lexeme` attribute, we could get an array of all the word forms:
 
