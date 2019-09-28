@@ -47,7 +47,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <td>30.10.</td>
     <td><a href="./PPVisualization.ipynb">Visualization</a><br>
-      graphs</td>
+      <a href="./Networks(1).ipynb">Graphs</a></td>
     <td>HW1</td>
     <td></td>
     <td></td>
