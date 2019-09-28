@@ -45,7 +45,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     </td>
   </tr>
-    <td>TBD</td>
+    <td>30.10.</td>
     <td><a href="./PPVisualization.ipynb">Visualization</a><br>
       graphs</td>
     <td>HW1</td>
@@ -53,7 +53,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
    </tr>
     <tr>
-    <td>TBD</td>
+    <td>07.10.</td>
     <td>Data bases</td>
     <td></td>
     <td></td>
@@ -61,7 +61,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
   </tr>
     <tr>
-    <td>TBD</td>
+    <td>14.10.</td>
     <td>1. HTML, CSS<br>
   2. Web-forms<br>
       3. Flask
