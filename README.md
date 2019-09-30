@@ -48,8 +48,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>30.10.</td>
     <td><a href="./PPVisualization.ipynb">Visualization</a><br>
       <a href="./Networkx(1).ipynb">Graphs</a></td>
-    <td>HW1</td>
-    <td></td>
+    <td><a href="./HW1.md">HW1</a></td>
+    <td>13.10 22:00</td>
     <td></td>
    </tr>
     <tr>
