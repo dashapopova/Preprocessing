@@ -20,8 +20,8 @@
 |2|Строится граф для какого либо семантического поля. Находятся соседи первого и второго порядка для изначально заданного узла (узлов). The graph is drawn, it contains the origin node, its neighbours and the neighbours of its neighbours.|
 |1|В граф добавляются только узлы, имеющие косинусную близость **≥0.5** к любому из уже имеющихся. Only nodes with the cosine similarity of **≥0.5** are added to the graph.|
 |1|Реализована фильтрация по частям речи: узлами являются только существительные, только глаголы и т.п. You filter by part of speech: all the nodes are of the same category, e.g., nouns.|
-|1|Рассчитана центральность узлов графа по метрикам, указанным в п.4. Degree centrality, betweenness centrality, closeness centrality и eigencentrality are computed.|
-|1|Рассчитано значение метрик, указанных в п.5. The density, diameter, radius, clustering coefficient and are computed.|
+|1|Рассчитана центральность узлов графа по метрикам, указанным в п.4. Degree centrality, betweenness centrality, closeness centrality and eigencentrality are computed.|
+|1|Рассчитано значение метрик, указанных в п.5. The density, diameter, radius, clustering coefficient and assortativity coefficient are computed.|
 |1|Граф разбит на сообщества, есть краткая интерпретация. The graph shows communities, a short interpretation of the split into communities is provided.|
 |1|Граф визуализирован. The graph is visualized.|
 |1|Внешний вид графа задан в соответствии с п.7. The size and the colour of nodes and edges stand for one of the parameters of your choice.|
