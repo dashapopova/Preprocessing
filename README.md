@@ -73,13 +73,13 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>TBD</td>
+    <td>28.10</td>
     <td>VK API</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>TBD</td>
+    <td>11.11</td>
     <td>Your presentations
   </td>
     <td></td>
@@ -88,7 +88,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   </tr>
     <tr>
-    <td>TBD</td>
+    <td>18.11</td>
     <td>Your presentations</td>
     <td></td>
     <td>Final Project is due:triumph:</td>
