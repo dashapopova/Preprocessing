@@ -96,4 +96,4 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
 </table>
 
-![](./python.jpg&s=200)
+![](./python.jpg)
