@@ -97,3 +97,4 @@ Final grade is rounded in favor of the student. There are no blocking elements o
 </table>
 
 ![](https://kateennals.files.wordpress.com/2016/08/boa-constrictor-little-prince.jpg)
+![](./python.jpg)
