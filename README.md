@@ -84,7 +84,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>[Presentation sign up form](https://drive.google.com/file/d/10-Rw4QEe8Ntt9g2NW5YOnV9rMKvw69Y4/view?usp=sharing)</td>
   </tr>
   </tr>
     <tr>
