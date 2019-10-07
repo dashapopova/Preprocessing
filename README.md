@@ -54,7 +54,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
    </tr>
     <tr>
     <td>07.10.</td>
-    <td>Data bases<br>
+    <td><a href="./DataBases.ipynb">Databases</a><br>
       <a href="./nanai-vowels.csv">Example: the data</a><br>
   <a href="./dbexample(1).ipynb">Example</a></td>
     <td></td>
