@@ -63,7 +63,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
   </tr>
     <tr>
-    <td>14.10.</td>
+    <td>15.10.</td>
     <td>1. HTML, CSS<br>
   2. Web-forms<br>
       3. Flask
