@@ -5,13 +5,13 @@ To create an HTML form you need to use the `<form>` tag. The HTML `<form>` eleme
 * action - specifies the program we send our request to
 * method - the method we use - GET|POST
 
-The tag `<input>` is used . У тэга <input> есть атрибуты:
+The tag `<input>` is used to specify the areas for the user input. The `<input>` tag has the following attributes:
 
-    name - имя поля,
-    value - значение поля,
-    type - какой тип ввода мы используем. Тип может быть такой:
-        text - короткое текстовое поле.
-        textarea - большое текстовое поле.
-        checkbox - выбор с чекбоксами, которые можно отмечать галочками (можно все или несколько)
-        radio - выбор с радио-кнопками, из которых можно выбрать только одну.
-        submit - кнопка для отправки формы на сервер.
+* name - the name of the field,
+* value - the value of the field,
+* type - the type of input:
+    * text - a small text field
+    * textarea - a big text field
+    * checkbox - chackbox buttons
+    * radio - radio buttons (only one of those can be selected)
+    * submit - the submit to the server button
