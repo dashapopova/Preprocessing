@@ -89,6 +89,9 @@ Let's write a page that contains a form that allows the user to input a word to 
      </body>
  </html>
 ```
+
+Now let's write a page that allows the user to input a word to search for it using yandex.
+
 #### Useful links
 
 More about HTML Forms: https://www.w3schools.com/html/html_forms.asp
