@@ -17,14 +17,15 @@ The tag `<input>` is used to specify the areas for the user input. The `<input>`
     * submit - the submit to the server button
 
 #### Example 1
-
+```
 <form method="GET">
     Как вас зовут? <input type="text" name="username" value="">
     <input type="submit" value="Отправить">
 </form>
+```
 
 #### Example 2
-
+```
 <html>
     <head>
        <meta charset="utf-8">
@@ -44,9 +45,9 @@ The tag `<input>` is used to specify the areas for the user input. The `<input>`
 
  </body>
  </html>
-
+```
 #### Example 3
-
+```
 <html>
     <head>
         <meta charset="utf-8">
@@ -69,11 +70,11 @@ The tag `<input>` is used to specify the areas for the user input. The `<input>`
     </form>
     </body>
 </html>
-
+```
 #### Exercise
 
 Let's write a page that contains a form that allows the user to input a word to search for it using google.
-
+```
 <html>
     <head>
        <meta charset="utf-8">
@@ -87,7 +88,7 @@ Let's write a page that contains a form that allows the user to input a word to 
        </form>
      </body>
  </html>
-
+```
 #### Useful links
 
 More about HTML Forms: https://www.w3schools.com/html/html_forms.asp
