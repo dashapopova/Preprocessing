@@ -1,13 +1,11 @@
 ## HTML Forms
 
-В коде HTML-страницы можно написать веб-формы, которые генерируют запросы к какому-то ресурсу и отправляют их, используя какой-то метод.
+To create an HTML form you need to use the `<form>` tag. The HTML `<form>` element defines a form that is used to collect user input. The tag `<form>` has the following attributes: 
 
-Чтобы создать форму используется тэг <form>. У тэга <form> есть атрибуты:
+* action - specifies the program we send our request to
+* method - the method we use - GET|POST
 
-    action - кому (какой программе) мы отправляем запрос
-    method - какой метод мы используем - GET|POST
-
-Для того, чтобы пользователь мог ввести в форму какие-то данные, используется тэг <input>. У тэга <input> есть атрибуты:
+The tag `<input>` is used . У тэга <input> есть атрибуты:
 
     name - имя поля,
     value - значение поля,
