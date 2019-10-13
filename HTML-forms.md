@@ -12,6 +12,6 @@ The tag `<input>` is used to specify the areas for the user input. The `<input>`
 * type - the type of input:
     * text - a small text field
     * textarea - a big text field
-    * checkbox - chackbox buttons
+    * checkbox - checkbox buttons
     * radio - radio buttons (only one of those can be selected)
     * submit - the submit to the server button
