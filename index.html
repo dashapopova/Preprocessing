@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Анкета владения языками хантов Казыма</title>
+</head>
+<body>
+<form action="http://127.0.0.1:5000/thanks" method = 'POST'>
+    <fieldset>
+        <legend><b>Опрос про распределение языков общения у носителей хантыйского</b></legend>
+    <p>Пожалуйста, заполняйте таблицу на английском языке для удобства последующих операций с ней</p>
+    Владеете ли Вы хантыйским как родным?<br>
+    <input type="radio" name="ask" value="yes" checked>Да<br>
+    <input type="radio" name="ask" value="no">Нет<br>
+    На каком языке Вы общаетесь на работе?<br>
+        Например: Khanty, Komi-Zyrian, Mansi, Russian<br>
+    <input type="text" name="what" required pattern='[a-zA-Z]+'><br>
+    На каком языке Вы общаетесь дома?<br>
+        Например: Khanty, Russian, Mansi, Komi-Zyrian<br>
+    <input type="text" name="how" required pattern='[a-zA-Z]+'><br>
+        Ваше имя?<br>
+        Например: Dasha<br>
+    <input type="text" name="name" required pattern='[a-zA-Z]+'><br>
+        Ваша фамилия?<br>
+        Например: Popova<br>
+    <input type="text" name="surname" required pattern='[a-zA-Z]+'><br>
+    <p><input type="submit" value="Отправить"></p>
+
+    </fieldset>
+</form>
+<p><a href='/stats'>Статистика опроса</a></p>
+<p><a href='/json'>Json со всеми введенными на сайте данными
+</a></p>
+<p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>

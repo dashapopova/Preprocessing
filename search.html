@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск по ответам</title>
+</head>
+<body>
+<form action="http://127.0.0.1:5000/result" method = 'POST'>
+    <fieldset>
+        <legend><b>Поиск ответов по ключевым словам</b></legend>
+        Человек ответил да или нет на вопрос, хант ли он?<br>
+        <input type="radio" name="ask_search" value="yes" checked>Да<br>
+        <input type="radio" name="ask_search" value="no">Нет<br>
+        Введите поисковый запрос на английском языке.<br>
+        <input type="text" name="what_search" required pattern='[a-zA-Z]+'><br>
+        <p><input type="submit" value="Искать"></p>
+<p><a href='/'>Главная страница</a></p>
+<p><a href='/stats'>Статистика опроса</a></p>
+<p><a href='/json'>Json со всеми введенными на сайте данными</a></p>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Список ответов</title>
+</head>
+<body>
+    <p>
+    {%for row in content%}
+        {%print(" ".join(row))%}
+        <br>
+    {%endfor%}
+    </p>
+    <p><a href='/'>Главная страница</a></p>
+    <p><a href='/json'>Json со всеми введенными на сайте данными
+    </a></p>
+    <p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>
