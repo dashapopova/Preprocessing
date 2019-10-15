@@ -2,7 +2,7 @@
 
 Let's work through a simple flask application.
 
-A .py file:
+A .py file with a toy questionnaire about the language use. How many pages does the application have?
 
 ```
 from flask import Flask, render_template, request
@@ -61,4 +61,116 @@ def show_result():
 if __name__ == '__main__':
     app.run(debug=True)
 
+```
+
+Into the folder `templates` we should put the following files:
+
+* index.html
+
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Анкета владения языками хантов Казыма</title>
+</head>
+<body>
+<form action="http://127.0.0.1:5000/thanks" method = 'POST'>
+    <fieldset>
+        <legend><b>Опрос про распределение языков общения у носителей хантыйского</b></legend>
+    <p>Пожалуйста, заполняйте таблицу на английском языке для удобства последующих операций с ней</p>
+    Владеете ли Вы хантыйским как родным?<br>
+    <input type="radio" name="ask" value="yes" checked>Да<br>
+    <input type="radio" name="ask" value="no">Нет<br>
+    На каком языке Вы общаетесь на работе?<br>
+        Например: Khanty, Komi-Zyrian, Mansi, Russian<br>
+    <input type="text" name="work" required pattern='[a-zA-Z]+'><br>
+    На каком языке Вы общаетесь дома?<br>
+        Например: Khanty, Russian, Mansi, Komi-Zyrian<br>
+    <input type="text" name="home" required pattern='[a-zA-Z]+'><br>
+        Ваше имя?<br>
+        Например: Dasha<br>
+    <input type="text" name="name" required pattern='[a-zA-Z]+'><br>
+        Ваша фамилия?<br>
+        Например: Popova<br>
+    <input type="text" name="surname" required pattern='[a-zA-Z]+'><br>
+    <p><input type="submit" value="Отправить"></p>
+
+    </fieldset>
+</form>
+<p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>
+```
+* result.html
+
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Результат поиска</title>
+</head>
+<body>
+<p>{{result}}</p>
+<p><a href='/'>Главная страница</a></p>
+<p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>
+```
+* search.html
+
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поиск по ответам</title>
+</head>
+<body>
+<form action="http://127.0.0.1:5000/result" method = 'POST'>
+    <fieldset>
+        <legend><b>Поиск ответов по ключевым словам</b></legend>
+        Человек ответил да или нет на вопрос, хант ли он?<br>
+        <input type="radio" name="ask_search" value="yes" checked>Да<br>
+        <input type="radio" name="ask_search" value="no">Нет<br>
+        Введите поисковый запрос на английском языке.<br>
+        <input type="text" name="what_search" required pattern='[a-zA-Z]+'><br>
+        <p><input type="submit" value="Искать"></p>
+<p><a href='/'>Главная страница</a></p>
+</body>
+</html>
+```
+
+* thanks.html
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Благодарность</title>
+</head>
+<body>
+<p>{{fin_form}}</p>
+<p><a href='/'>Главная страница</a></p>
+<p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>
+```
+* thanks.html
+
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+    <title>Благодарность</title>
+</head>
+<body>
+<p>{{fin_form}}</p>
+<p><a href='/'>Главная страница</a></p>
+<p><a href='/search'>Поиск по результатам</a></p>
+</body>
+</html>
 ```
