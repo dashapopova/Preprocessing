@@ -2,7 +2,7 @@
 
 Let's work through a simple flask application.
 
-A .py file with a toy questionnaire about the language use. How many pages does the application have?
+A .py file with a toy questionnaire about the language use. How many pages does the application have? Where do we save the results of the survey?
 
 ```
 from flask import Flask, render_template, request
@@ -151,12 +151,28 @@ Into the folder `templates` we should put the following files:
     <title>Благодарность</title>
 </head>
 <body>
-<p>{{fin_form}}</p>
+<h1>{{fin_form}}</h1>
 <p><a href='/'>Главная страница</a></p>
 <p><a href='/search'>Поиск по результатам</a></p>
 </body>
 </html>
 ```
+
+If you want to include the styling, create a folder `static` and put the .css files into that folder. Link your .css files to the corresponding .html files. 
+
+For example, we want to make the thank you part yellow. We create a style.css file and put it into a static folder:
+
+```
+h1{
+	color:yellow;
+
+}
+```
+
+The style.css file: color all `<h1>` elements with yellow.
+
+Then, in the thanks.html file, we include the link to the style.css file: `<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">`:
+
 * thanks.html
 
 ```
@@ -168,7 +184,7 @@ Into the folder `templates` we should put the following files:
     <title>Благодарность</title>
 </head>
 <body>
-<p>{{fin_form}}</p>
+<h1>{{fin_form}}</h1>
 <p><a href='/'>Главная страница</a></p>
 <p><a href='/search'>Поиск по результатам</a></p>
 </body>
