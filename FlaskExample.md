@@ -63,6 +63,8 @@ if __name__ == '__main__':
 
 ```
 
+Note the use of JSON (JavaScript Object Notation) -- https://www.json.org/. You don't have to use it, but it is good to know about it. `json.loads` converts JSON into a python dictionary; `json.dumps` does the reverse. More about it and some exercises: https://www.w3schools.com/python/python_json.asp
+
 Into the folder `templates` we should put the following files:
 
 * index.html
@@ -160,7 +162,7 @@ Into the folder `templates` we should put the following files:
 
 If you want to include the styling, create a folder `static` and put the .css files into that folder. Link your .css files to the corresponding .html files. 
 
-For example, we want to make the thank you part yellow. We create a style.css file and put it into a static folder:
+For example, we want to make the *thank you* part yellow. We create a style.css file and put it into the `static` folder:
 
 ```
 h1{
