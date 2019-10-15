@@ -192,3 +192,7 @@ Then, in the thanks.html file, we include the link to the style.css file: `<link
 </body>
 </html>
 ```
+
+More about css: https://www.w3schools.com/css/default.asp
+
+About bootstrap: https://www.w3schools.com/bootstrap/bootstrap_ver.asp
