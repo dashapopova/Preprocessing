@@ -67,7 +67,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
   1. <a href="./HTML-forms.md">HTML Forms</a><br>
       2. <a href="./PPFlask.ipynb">Flask</a><br>
-      3. <a href="./.md">Flask app example</a><br>
+      3. <a href="./FlaskExample.md">Flask app example</a><br>
   </td>
     <td> HW2 </td>
     <td></td>
