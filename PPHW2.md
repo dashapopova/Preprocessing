@@ -18,7 +18,7 @@ It could be a lexical typological questionnaire, a sociolinguistic questionnaire
 |**2**|**Bonus points:** the experiment/questionnaire includes pictures or audiofiles or videofiles|
 |**2**|**Bonus points:** the app is uploaded to pythonanywhere or heroku (send me the link if you do this)|
 
-**NB!** Send me 1) your app in a `.py` file; 2) a folder `templates` with your html-files; 3) optionally: a folder `static` with your .css files. 
+**NB!** Send me 1) your app in a `.py` file; 2) a folder `templates` with your html-files; 3) optionally: a folder `static` with your .css files, pictures. 
 
 ### How do I insert a picture?
 
