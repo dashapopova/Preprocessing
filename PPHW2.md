@@ -13,6 +13,7 @@ It could be a lexical typological questionnaire, a sociolinguistic questionnaire
 |2|There is a statistics page (127.0.0.1/stats) that displays the distribution of the answers (as a table, as a summary of some statistical analysis, as a plot -- it is up to you), the page is linked to the search page, the stats page and the main page|
 |2|There is a search page (127.0.0.1/search) that allows the user to search for the data they need, the page is linked to the search page, the stats page and the main page|
 |2|There is a results page (127.0.0.1/results) that displays the results of the search, the page is linked to the search page, the stats page and the main page|
+|**2**|**Bonus points:** the answers are saved in a database (not in a .csv file)|
 |**2**|**Bonus points:** styling with [bootstrap](https://www.w3schools.com/booTsTrap/default.asp)|
 |**2**|**Bonus points:** the experiment/questionnaire includes pictures or audiofiles or videofiles|
 |**2**|**Bonus points:** the app is uploaded to pythonanywhere or heroku (send me the link if you do this)|
