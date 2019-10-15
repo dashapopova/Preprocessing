@@ -69,8 +69,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       2. <a href="./PPFlask.ipynb">Flask</a><br>
       3. <a href="./FlaskExample.md">Flask app example</a><br>
   </td>
-    <td> HW2 </td>
-    <td></td>
+    <td> <a href="./PPHW2.md">HW2</a> </td>
+    <td>5.11 22:00</td>
     <td></td>
   </tr>
     <tr>
