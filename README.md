@@ -4,7 +4,7 @@ Programming seminars for Second Year Linguistics Master students
 
 ### Hours
 
-Mon, 18.10 -- 21.00, room 509
+Mon, 18.10 -- 21.00
 
 ### Instructor
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
