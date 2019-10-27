@@ -75,7 +75,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>28.10</td>
-    <td><a href="./twitter.json">twitter json</a><br></td>
+    <td><a href="./json_1.ipynb">JSON</a><br>
+      <a href="./twitter.json">twitter json</a></td>
     <td></td>
     <td></td>
   </tr>
