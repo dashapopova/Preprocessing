@@ -70,7 +70,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>14.10</td>
-    <td>Vizualization<br>
+    <td>Visualization<br>
   Your presentations</td>
     <td></td>
     <td></td>
