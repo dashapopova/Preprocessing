@@ -49,7 +49,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
       Graphs</td>
     <td>HW1</td>
     <td>07.10 22:00</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
     <td>30.09.</td>
@@ -73,7 +73,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Visualization<br>
   Your presentations</td>
     <td></td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
     <tr>
     <td>28.10</td>
@@ -82,7 +82,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td></td>
     <td></td>
-    <td><a href="https://drive.google.com/file/d/10-Rw4QEe8Ntt9g2NW5YOnV9rMKvw69Y4/view?usp=sharing">Presentation sign up form</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
   </tr>
     <tr>
