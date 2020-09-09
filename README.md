@@ -56,7 +56,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Databases (Not meeting! Self-study)</td>
     <td></td>
     <td></td>
-    <td>
+    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a>
   </td>
   </tr>
     <tr>
