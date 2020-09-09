@@ -4,7 +4,6 @@ A project is a homework that you design for yourself. Ideally, your project shou
 
 Some suggestions:
 
-* a web-application for a linguistic experiment
-* a web-application for collecting fieldwork data
+* a program that analyzes fieldwork data
 * a program that downloads some data from the web, preprocesses it and visualizes it
 * a program that draws graphs for a couple of different semantic fields in a couple of languages
