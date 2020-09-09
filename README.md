@@ -44,7 +44,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     </td>
   </tr>
-    <td>23.10.</td>
+    <td>23.09.</td>
     <td>Your presentations<br>
       Graphs</td>
     <td>HW1</td>
