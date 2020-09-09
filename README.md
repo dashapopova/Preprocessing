@@ -4,18 +4,18 @@ Programming seminars for Second Year Linguistics Master students
 
 ### Hours
 
-Mon, 18.10 -- 21.00
+Wed, 18.10 -- 21.00, room 402
 
 ### Instructor
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
-* 25% -- final project (exam)
+* 30% -- final project (exam)
 * 25% -- homework assignment 1
 * 25% -- homework assignment 2
-* 25% -- in-class presentation (a 15 min. oral presentation on an NLP topic of your choosing)
+* 20% -- in-class presentation (a short oral presentation on an NLP topic of your choosing)
 
-Final grade is rounded in favor of the student. There are no blocking elements of the grade. 
+Final grade is rounded in favor of the student. There are no blocking elements of the grade.
 
 ### Schedule
 <table>
@@ -27,7 +27,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <th>Reference</th>
   </tr>
    <tr>
-    <td>16.09.</td>
+    <td>09.09.</td>
     <td><a href="./PPSem1.ipynb">Pymystem, pymorphy</a><br>
     <a href="./PPSem2.ipynb">Parsing Internet data</a></td>
     <td></td>
@@ -36,7 +36,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
   </tr>
   <tr>
-    <td>23.09.</td>
+    <td>16.09.</td>
     <td><a href="./Word2vec(2).md">Word2vec</a><br>
       <a href="./Word2vec(2).ipynb">Word2vec</a>
     </td>
@@ -45,7 +45,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>
     </td>
   </tr>
-    <td>30.10.</td>
+    <td>23.10.</td>
     <td><a href="./PPVisualization.ipynb">Visualization</a><br>
       <a href="./Networkx(1).ipynb">Graphs</a></td>
     <td><a href="./HW1.md">HW1</a></td>
@@ -53,7 +53,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
    </tr>
     <tr>
-    <td>07.10.</td>
+    <td>30.09.</td>
     <td><a href="./DataBases.ipynb">Databases</a><br>
       <a href="./nanai-vowels.csv">Example: the data</a><br>
   <a href="./dbexample(1).ipynb">Example</a></td>
@@ -63,7 +63,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
   </tr>
     <tr>
-    <td>15.10.</td>
+    <td>07.10.</td>
     <td>
   1. <a href="./HTML-forms.md">HTML Forms</a><br>
       2. <a href="./PPFlask.ipynb">Flask</a><br>
@@ -74,7 +74,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>28.10</td>
+    <td>14.10</td>
     <td><a href="./json_1.ipynb">JSON</a><br>
       <a href="./twitter.json">twitter json</a><br>
   <a href="./PP_VK_API.ipynb">VK API</a><br>
@@ -83,7 +83,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>11.11</td>
+    <td>28.10</td>
     <td>Your presentations
   </td>
     <td></td>
@@ -92,10 +92,10 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   </tr>
     <tr>
-    <td>14.12 (Sut!, 10.30--13.30, room 402)</td>
+    <td>11.11</td>
     <td>Your presentations</td>
     <td><a href="./FPG.md">Final project guidelines</a></td>
-    <td>Final Project is due 9.12 at noon:triumph:</td>
+    <td>Final Project is due 11.11 at noon:triumph:</td>
     <td></td>
   </tr>
 </table>
