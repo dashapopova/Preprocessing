@@ -83,7 +83,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </td>
     <td></td>
     <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
+    <td></td>
   </tr>
   </tr>
     <tr>
@@ -91,7 +91,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Your presentations</td>
     <td><a href="./FPG.md">Final project guidelines</a></td>
     <td>Final Project is due 11.11 at noon:triumph:</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
 
