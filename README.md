@@ -37,8 +37,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>16.09.</td>
-    <td><a href="./Word2vec(2).md">Word2vec</a><br>
-      <a href="./Word2vec(2).ipynb">Word2vec</a>
+    <td>Word2vec
     </td>
     <td></td>
     <td></td>
@@ -46,17 +45,15 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     </td>
   </tr>
     <td>23.10.</td>
-    <td><a href="./PPVisualization.ipynb">Visualization</a><br>
-      <a href="./Networkx(1).ipynb">Graphs</a></td>
-    <td><a href="./HW1.md">HW1</a></td>
-    <td>13.10 22:00</td>
+    <td>Your presentations<br>
+      Graphs</td>
+    <td>HW1</td>
+    <td>07.10 22:00</td>
     <td></td>
    </tr>
     <tr>
     <td>30.09.</td>
-    <td><a href="./DataBases.ipynb">Databases</a><br>
-      <a href="./nanai-vowels.csv">Example: the data</a><br>
-  <a href="./dbexample(1).ipynb">Example</a></td>
+    <td>Databases (Not meeting! Self-study)</td>
     <td></td>
     <td></td>
     <td>
@@ -64,27 +61,24 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>07.10.</td>
-    <td>
-  1. <a href="./HTML-forms.md">HTML Forms</a><br>
-      2. <a href="./PPFlask.ipynb">Flask</a><br>
-      3. <a href="./FlaskExample.md">Flask app example</a><br>
+    <td>Databases 2<br>
+      Crowlers
   </td>
-    <td> <a href="./PPHW2.md">HW2</a> </td>
-    <td>5.11 22:00</td>
+    <td>HW2</td>
+    <td>28.10 22:00</td>
     <td></td>
   </tr>
     <tr>
     <td>14.10</td>
-    <td><a href="./json_1.ipynb">JSON</a><br>
-      <a href="./twitter.json">twitter json</a><br>
-  <a href="./PP_VK_API.ipynb">VK API</a><br>
-  <a href="./PP_VK_API_Example.ipynb">VK API Example</a></td>
+    <td>Vizualization<br>
+  Your presentations</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>28.10</td>
-    <td>Your presentations
+    <td>JSON<br>
+      VK API
   </td>
     <td></td>
     <td></td>
