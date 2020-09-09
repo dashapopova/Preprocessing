@@ -73,6 +73,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>Visualization<br>
   Your presentations</td>
     <td></td>
+  <td></td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
     <tr>
