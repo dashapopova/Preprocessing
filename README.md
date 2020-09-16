@@ -37,7 +37,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   <tr>
     <td>16.09.</td>
-    <td>Word2vec
+    <td><a href="./PP_Word2Vec.ipynb">Word2vec</a>
     </td>
     <td></td>
     <td></td>
