@@ -47,7 +47,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>23.09.</td>
     <td>Your presentations<br>
       Graphs</td>
-    <td>HW1</td>
+    <td><a href="./PP_HW1.md">HW1</td>
     <td>07.10 22:00</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
