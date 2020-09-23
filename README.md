@@ -46,6 +46,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <td>23.09.</td>
     <td>Your presentations<br>
+       <a href="./PP_Graphs.ipynb">Graphs</a><br>
       <a href="./PP_Graphs_DH.ipynb">Graphs in DH</a><br>
   <a href="./pin.txt">Graphs in DH_ex_text</a></td>
     <td><a href="./PP_HW1.md">HW1</td>
