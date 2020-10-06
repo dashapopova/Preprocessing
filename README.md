@@ -76,16 +76,16 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   Your presentations</td>
     <td></td>
   <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
+    <td></td>
   </tr>
     <tr>
     <td>28.10</td>
-    <td>JSON<br>
-      VK API
+    <td>JSON, VK API<br>
+      Your presentations
   </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
   </tr>
     <tr>
