@@ -63,7 +63,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>07.10.</td>
-    <td>Databases 2<br>
+    <td><a href="./DataBases(1).ipynb">Databases 2</a><br>
      <a href="./PP_Crawlers(1).ipynb">Crowlers</a>
   </td>
     <td>HW2</td>
