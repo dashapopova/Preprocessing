@@ -72,7 +72,8 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>14.10</td>
-    <td>Visualization</td>
+    <td>Pandas<br>
+      Visualization</td>
     <td></td>
   <td></td>
     <td></td>
