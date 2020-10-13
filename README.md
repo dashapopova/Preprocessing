@@ -74,7 +74,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>14.10</td>
     <td>Pandas<br>
       <a href="./PPVisualization.ipynb">Visualization 1</a><br>
-      <a href="./PPVisualization.ipynb">Visualization 2</a>
+      <a href="./visualization(2).ipynb">Visualization 2</a>
   </td>
     <td></td>
   <td></td>
