@@ -82,7 +82,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td></td>
   </tr>
     <tr>
-    <td>28.10</td>
+    <td>28.10 (in zoom!)</td>
     <td>JSON, VK API<br>
       Your presentations
   </td>
@@ -92,7 +92,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
   </tr>
     <tr>
-    <td>11.11</td>
+    <td>11.11 (in zoom!)</td>
     <td>Your presentations</td>
     <td><a href="./FPG.md">Final project guidelines</a></td>
     <td>Final Project is due 11.11 at noon:triumph:</td>
