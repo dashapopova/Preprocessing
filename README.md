@@ -95,7 +95,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
     <td>24.11 (Tue, in zoom!)</td>
     <td>Your presentations</td>
     <td><a href="./FPG.md">Final project guidelines</a></td>
-    <td>Final Project is due 11.11 at noon:triumph:</td>
+    <td><b>Final Project is due 24.11 at noon</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
