@@ -83,7 +83,7 @@ Final grade is rounded in favor of the student. There are no blocking elements o
   </tr>
     <tr>
     <td>17.11 (Tue, in zoom!)</td>
-    <td>JSON, VK API<br>
+    <td><a href="./json_1.ipynb">JSON</a>, <a href="./PP_VK_API.ipynb">VK API</a><br>
       Your presentations
   </td>
     <td></td>
